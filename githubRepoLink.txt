@@ -1,0 +1,6 @@
+github repository link:
+https://github.com/RushikeshBawaskar/labexam.git
+
+docker build -t my-java-app .
+
+docker run -it my-java-app
